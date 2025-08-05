@@ -111,7 +111,7 @@ const Contact = () => {
 
                     {/* 3D Experience - Right Side */}
                     <div className="canvas-card-gemini xl:col-span-7 min-h-96">
-                        <div className="inner-glow-container hover:cursor-grab">
+                        <div className="inner-glow-container bg-black hover:cursor-grab">
                             <ContactExperience />
                         </div>
                     </div>
