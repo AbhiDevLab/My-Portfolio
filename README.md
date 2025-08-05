@@ -1,12 +1,20 @@
-# React + Vite
+My-Portfolio
+A personal developer portfolio built with React, Vite, and Three.js. It showcases interactive 3D models (GLB format) as a visual backdrop while highlighting the developer’s skills and projects. The site includes dedicated sections for the tech stack, work experience, project highlights, and a downloadable resume (PDF). A clean, professional design ensures that information is presented clearly and concisely, following recommended best practices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+We present a clear list of key features for this portfolio (as advised for feature-rich projects):
+1. 3D Animations: Interactive 3D GLB models rendered with Three.js for an engaging visual effect.
+2. Tech Stack: A dedicated section listing all core technologies (e.g. React, Vite, Three.js, etc.) used in the project.
+3. Work Experience & Projects: Sections detailing the developer’s professional background and showcasing notable projects.
+4. Resume Download: A PDF version of the resume is included in the public assets for easy access.
+5. Contact Form: A functional form allowing visitors to send messages directly to the developer.
+6. Responsive Design: Mobile-friendly layout that adapts smoothly to various screen sizes.
+7. Using various responsive elements to make the UI more attractive and easy to go with.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tech Stack
+For transparency, the main technologies used in this project are listed below (listing the tech stack is standard in READMEs):
+1. React – Component-based UI library for building the interface.
+2. Vite – Build tool and development server for fast project startup.
+3. Three.js – WebGL library for creating and animating 3D graphics.
+4. JavaScript (ES6+) and JSX – Core scripting languages.
+5. HTML & CSS – Markup and styling (see index.css in the repo).
